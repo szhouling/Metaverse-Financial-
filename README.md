@@ -4,7 +4,7 @@
 ## Executive Summary
 
 In this project, I leverage an extensive dataset from the Open Metaverse, an expansive digital realm where blockchain technology is crucial for ensuring secure and transparent transactions. My focus is on detecting anomalies and assessing risks within 78,600 blockchain financial transactions. By applying advanced machine learning techniques, including Linear Regression, Regularizations, Decision Trees, Random Forest, and Neural Network, I aim to enhance the detection of fraudulent activities and identify characteristics of transactions that indicate risk. This effort is pivotal for maintaining the integrity of virtual economies.
-https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset/data![image](https://github.com/szhouling/Metaverse-Financial-/assets/150317462/eab593fe-ed6d-4c51-b4c0-44bfe8bf7f9c)
+https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset
 
 ## Background
 
